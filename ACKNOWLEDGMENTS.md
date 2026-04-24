@@ -21,4 +21,4 @@ The following technologies were instrumental in the development of this project:
 Finally, I would like to thank the security researchers and developers whose commitment to data privacy and encryption protocols continues to inspire my work in cybersecurity.
 
 ---
-*Maintained by [aarchiev](https://github.com/aarchiev) & [mmcdonnel](https://github.com/mmcdonnel)*
+*Maintained by [beef911](https://github.com/beef911)*
